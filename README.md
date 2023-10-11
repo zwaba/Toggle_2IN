@@ -1,5 +1,5 @@
 # Toggle_2IN
-.lv2 plugin for Mod / Toggle switch
+.lv2 plugin utility for Mod / Toggle switch
 
 Same as the MOD switchbox plugin but switch possible with CV
 
