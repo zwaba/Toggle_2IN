@@ -3,6 +3,8 @@
 
 Same as the MOD switchbox plugin but switch possible with CV
 
+A slight smoothing is implemented in order to avoid scale effects.
+
 ----
 
 Mod devices installation
