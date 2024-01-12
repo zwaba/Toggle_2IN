@@ -56,7 +56,13 @@
         lv2:maximum 1 ;
     ] ;
 
-    rdfs:comment "Generated from Max gen~ and github.com/moddevices/max-gen-plugins" ;
+    rdfs:comment "Toggle switch
+
+Same as the MOD switchbox plugin but switch possible with CV
+
+A slight smoothing is implemented in order to avoid scale effects.
+
+" ;
 
     mod:brand "zwabo" ;
     mod:label "Toggle_2IN" ;
